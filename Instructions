@@ -1,0 +1,12 @@
+INSTRUCTIONS:
+(!!! Works Only On Unix And Linux (Automatically Anyway)!!!)
+
+1. Open Terminal
+
+2. Navigate To The Directory With The Script
+      cd ./[directory]
+      
+3. Open File 
+      python Converter.py
+      
+4. Enjoy!
